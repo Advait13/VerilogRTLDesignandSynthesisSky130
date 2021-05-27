@@ -1,6 +1,6 @@
 # VerilogRTLDesignandSynthesisSky130
 
-Day 1 - Introduction to Verilog RTL Design and Synthesis
+# Day 1 - Introduction to Verilog RTL Design and Synthesis
 
 1. Simulator is a tool for checking the RTL Design
 iverilog is an example.
@@ -36,7 +36,7 @@ Resulting Diagram
 ![image](https://user-images.githubusercontent.com/75453542/119771691-ef94fd00-be72-11eb-9905-c3edf4b20a27.png)
 
 
-Day 2- Timing libs,hierarchical vs flat synthesis and efficient flop coding styles
+# Day 2- Timing libs,hierarchical vs flat synthesis and efficient flop coding styles
 
 A] Introduction to timing .libs
 
@@ -56,4 +56,11 @@ Will the Silicon work in all corner cases?
 Example of a lib
 
 ![image](https://user-images.githubusercontent.com/75453542/119772849-aa71ca80-be74-11eb-8d77-fbcaa1e44232.png)
+
+Note: All STD Cell Definition will be present here:
+Example of a Cell
+![image](https://user-images.githubusercontent.com/75453542/119773400-7054f880-be75-11eb-9a18-138b2be6420d.png)
+
+
+
 
