@@ -76,11 +76,8 @@ For each cell
 1) Values of Leakage Power for all Gate transistions to a STD CELL (For our example above it is 2^5(inputs) = 32 Combinations)
 2) Area Value
 3) Power Port Information
-4) Describe Each Input 
-
--> Capacitance of each pin
-
--> Power of each pin
-
--> Delay of each pin
+4) Describe Each Input \n
+-Capacitance of each pin \n
+-Power of each pin
+-Delay of each pin
 
