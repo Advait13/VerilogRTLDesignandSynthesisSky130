@@ -58,9 +58,11 @@ Example of a lib
 ![image](https://user-images.githubusercontent.com/75453542/119772849-aa71ca80-be74-11eb-8d77-fbcaa1e44232.png)
 
 Note: All STD Cell Definition will be present here:
+
 Example of a Cell
+
 ![image](https://user-images.githubusercontent.com/75453542/119773400-7054f880-be75-11eb-9a18-138b2be6420d.png)
 
-
+The above Example is a AND-OR Gate (2 Input AND Gate(A1 and A2) and remaing are all OR it with (B1,C1,D1))
 
 
