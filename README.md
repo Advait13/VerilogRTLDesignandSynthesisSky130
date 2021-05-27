@@ -82,4 +82,4 @@ For each cell
 -Delay of each pin
 
 Difference Between multiple flavors of the Same Cell
-Note: Looking at the area value , you will know which cells are faster(more Area)
+Note: Looking at the area and power value , you will know which cells are faster(more Area, more Power)
