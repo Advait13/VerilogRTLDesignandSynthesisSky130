@@ -17,3 +17,18 @@ To charge/discharge a Capacitor fast, we need transistors capable of sourcing mo
 Wider transistors -> Low Delay -> More Area and Power
 Narrow transistors -> More delay -> Less Power and Area
 
+4. Labs
+A] Yosys
+![image](https://user-images.githubusercontent.com/75453542/119771572-c6746c80-be72-11eb-9949-bafe902cd37a.png)
+
+Commands to Read Verilog and Liberty File
+![image](https://user-images.githubusercontent.com/75453542/119771616-d7bd7900-be72-11eb-9a3f-c980821ef107.png)
+
+Results of good_mux.v
+![image](https://user-images.githubusercontent.com/75453542/119771667-e7d55880-be72-11eb-83dc-56119d084769.png)
+
+Resulting Diagram
+![image](https://user-images.githubusercontent.com/75453542/119771691-ef94fd00-be72-11eb-9905-c3edf4b20a27.png)
+
+
+
