@@ -70,3 +70,14 @@ The above Example is a AND-OR Gate (2 Input AND Gate(A1 and A2) and remaing are 
 ![image](https://user-images.githubusercontent.com/75453542/119773938-3cc69e00-be76-11eb-9cac-bddc87aba5e2.png)
 
 Note:- PP - Stands for Power Pins
+
+Important Information inside the .lib files
+For each cell 
+1) Values of Leakage Power for all Gate transistions to a STD CELL (For our example above it is 2^5(inputs) = 32 Combinations)
+2) Area Value
+3) Power Port Information
+4) Describe Each Input 
+-> Capacitance of each pin
+-> Power of each pin
+-> Delay of each pin
+
