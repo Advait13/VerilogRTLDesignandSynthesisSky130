@@ -36,4 +36,24 @@ Resulting Diagram
 ![image](https://user-images.githubusercontent.com/75453542/119771691-ef94fd00-be72-11eb-9905-c3edf4b20a27.png)
 
 
+Day 2- Timing libs,hierarchical vs flat synthesis and efficient flop coding styles
+
+A] Introduction to timing .libs
+
+Name of Lib (3 characteristics Process(P),Voltage(V) and Temperature(T))
+1. SKY130 - 130nm Library 
+Variations due to fabrication
+2. TT - Typical 
+1v80 (1.8)
+Variations due to Voltage
+3. 025C - Temperature
+Variations in Temperature
+
+These 3 characteristics will change the way Silicon Works
+Hence, libraries characterized to model these variations
+Will the Silicon work in all corner cases?
+
+Example of a lib
+
+![image](https://user-images.githubusercontent.com/75453542/119772849-aa71ca80-be74-11eb-8d77-fbcaa1e44232.png)
 
