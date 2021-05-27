@@ -65,4 +65,8 @@ Example of a Cell
 
 The above Example is a AND-OR Gate (2 Input AND Gate(A1 and A2) and remaing are all OR it with (B1,C1,D1))
 
+![image](https://user-images.githubusercontent.com/75453542/119773980-4f40d780-be76-11eb-96ce-6000b68e5b9a.png)
 
+![image](https://user-images.githubusercontent.com/75453542/119773938-3cc69e00-be76-11eb-9cac-bddc87aba5e2.png)
+
+Note:- PP - Stands for Power Pins
