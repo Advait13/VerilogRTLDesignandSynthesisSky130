@@ -77,7 +77,10 @@ For each cell
 2) Area Value
 3) Power Port Information
 4) Describe Each Input 
+
 -> Capacitance of each pin
+
 -> Power of each pin
+
 -> Delay of each pin
 
