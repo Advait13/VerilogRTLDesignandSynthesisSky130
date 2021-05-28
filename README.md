@@ -273,3 +273,4 @@ Netlist:
  
  ![image](https://user-images.githubusercontent.com/75453542/120040063-c97a7480-bfba-11eb-90bb-45528ad2e8ce.png)
 
+Optimizations are important to conserve hardware and cost of chip manufacturing
