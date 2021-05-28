@@ -99,4 +99,5 @@ ANS: !A & B
 ![image](https://user-images.githubusercontent.com/75453542/120015504-3f211900-bf98-11eb-9b1a-9d6f4cd4a33f.png)
 
 Q5 Area of Cell : MUX2_1
+
 ![image](https://user-images.githubusercontent.com/75453542/120015414-29135880-bf98-11eb-9b35-1ddbd564a530.png)
