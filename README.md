@@ -85,6 +85,9 @@ Difference Between multiple flavors of the Same Cell
 Note: Looking at the area and power value , you will know which cells are faster(more Area, more Power)
 
 Assessment Day 2 Skill 1
+
+![image](https://user-images.githubusercontent.com/75453542/120015630-65df4f80-bf98-11eb-9adb-f6517393f5db.png)
+
 Q1 and Q2
 AND2_4 is a cell with a wider transaitor compared to AND2_2 and AND2_0
 Hence
