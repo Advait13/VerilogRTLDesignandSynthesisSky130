@@ -186,4 +186,10 @@ As seen below at "alpha" Q follows D
 
 ![image](https://user-images.githubusercontent.com/75453542/120027544-59fb8980-bfa8-11eb-82af-b41962e50f06.png)
 
+Sync Reset D-FF
+
+![image](https://user-images.githubusercontent.com/75453542/120027974-ead26500-bfa8-11eb-989b-4584ff815b5e.png)
+
+Waveform
+
 
