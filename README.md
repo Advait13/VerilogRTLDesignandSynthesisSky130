@@ -162,4 +162,4 @@ Various Flop Coding Styles and optimization
 1. Asynchronous Active High Reset with Posedge clock -> always @(posedge clk or async_reset ) if(async_reset) q <= 1'b0 else q<=d
 2. Asynchronous Active High Set with Posedge clock -> always @(posedge clk or async_set ) if(async_reset) q <= 1'b0 else q<=d
 3. Synchronous Active High Reset with Posedge clock -> always @(posedge clk  ) if(async_reset) q <= 1'b0 else q<=d
-4. Asyncronous Active High Reset , syncronouus reset with Posedge clock -> always @(posedge clk or async_reset ) if(async_reset) q <= 1'b0 else if(sync_reset) q<= 1'b0; else q<=d
+4. Asyncronous Active High Reset , active high synchronouus reset with Posedge clock -> always @(posedge clk or async_reset ) if(async_reset) q <= 1'b0 else if(sync_reset) q<= 1'b0; else q<=d
