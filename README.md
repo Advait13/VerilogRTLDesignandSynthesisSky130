@@ -234,7 +234,7 @@ Synthesis of Async Reset D-FF
 
  Interesting Optimizations
  
- Utilizing Left Shift to Execute Multiply by 2 Operation
+ Utilizing Shift to Execute Multiply by 2^x Operation
 
  
  
