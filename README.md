@@ -232,7 +232,9 @@ Synthesis of Async Reset D-FF
  
  ![image](https://user-images.githubusercontent.com/75453542/120037087-ebbdc380-bfb5-11eb-87f9-4312e0ff149a.png)
 
+ Interesting Optimizations
  
+ Utilizing Left Shift to Execute Multiply by 2 Operation
 
  
  
