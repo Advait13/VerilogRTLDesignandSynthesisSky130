@@ -152,5 +152,7 @@ Observations of YOSYS Tool
  
 Various Flop Coding Styles and optimization
  
- 
+ Basics: Why Flops?
+ Due to Propagation Delay of Combo Cells , Output will glitch until it stabilizes.
+ Use Flip-Flop to store values
  
