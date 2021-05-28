@@ -83,3 +83,17 @@ For each cell
 
 Difference Between multiple flavors of the Same Cell
 Note: Looking at the area and power value , you will know which cells are faster(more Area, more Power)
+
+Assessment Day 2 Skill 1
+Q1 and Q2
+AND2_4 is a cell with a wider transaitor compared to AND2_2 and AND2_0
+Hence
+Delay AND2_4 < AND2_2 <AND2_1
+Power and Area AND2_4 > AND2_2 > AND2_1
+
+Q4 Highest Leakage Power : NOR2_1
+ANS: !A & B
+![image](https://user-images.githubusercontent.com/75453542/120015504-3f211900-bf98-11eb-9b1a-9d6f4cd4a33f.png)
+
+Q5 Area of Cell : MUX2_1
+![image](https://user-images.githubusercontent.com/75453542/120015414-29135880-bf98-11eb-9b35-1ddbd564a530.png)
