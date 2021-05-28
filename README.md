@@ -349,7 +349,7 @@ opt_check4 (assign y= a?(b?(a&c):c):(!c))
  
   ![image](https://user-images.githubusercontent.com/75453542/120045873-d6e92c00-bfc5-11eb-8973-9566b6b689cb.png)
  
- Diagram:
+ Diagram (A XNOR C Operation):
 
  ![image](https://user-images.githubusercontent.com/75453542/120046422-f765b600-bfc6-11eb-82d2-313c68c0b970.png)
 
