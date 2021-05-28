@@ -95,7 +95,9 @@ Delay AND2_4 < AND2_2 <AND2_1
 Power and Area AND2_4 > AND2_2 > AND2_1
 
 Q4 Highest Leakage Power : NOR2_1
+
 ANS: !A & B
+
 ![image](https://user-images.githubusercontent.com/75453542/120015504-3f211900-bf98-11eb-9b1a-9d6f4cd4a33f.png)
 
 Q5 Area of Cell : MUX2_1
