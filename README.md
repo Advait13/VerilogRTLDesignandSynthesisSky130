@@ -339,5 +339,28 @@ opt_check3 (assign y = a? (c?b:0):0 )
  
  ![image](https://user-images.githubusercontent.com/75453542/120045920-e8cacf00-bfc5-11eb-8d9f-d3d4c285d4b9.png)
 
+opt_check4 (assign y= a?(b?(a&c):c):(!c))
+ 
+ Cell Report:
+ 
+ ![image](https://user-images.githubusercontent.com/75453542/120046326-c38a9080-bfc6-11eb-9dc7-5d40bf7c3ddc.png)
+ 
+ Optimizing...
+ 
+  ![image](https://user-images.githubusercontent.com/75453542/120045873-d6e92c00-bfc5-11eb-8973-9566b6b689cb.png)
+ 
+ Diagram:
 
+ ![image](https://user-images.githubusercontent.com/75453542/120046422-f765b600-bfc6-11eb-82d2-313c68c0b970.png)
+
+ multiple_module_opt.v
+ 
+ ![image](https://user-images.githubusercontent.com/75453542/120046178-7dcdc800-bfc6-11eb-8722-b862a95fc7ef.png)
+
+ multiple_module_opt2.v
+ 
+ ![image](https://user-images.githubusercontent.com/75453542/120046208-8e7e3e00-bfc6-11eb-9f58-deb0f6cbacfb.png)
+
+ 
+ 
  
