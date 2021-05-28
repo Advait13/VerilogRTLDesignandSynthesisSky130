@@ -196,4 +196,7 @@ As seen below Async Reset will make Q is 0 and Q is 1 after pos clock edge becau
 
 ![image](https://user-images.githubusercontent.com/75453542/120028749-f4a89800-bfa9-11eb-80de-2de189382c6c.png)
 
+Synthesis
+
+
 
