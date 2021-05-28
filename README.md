@@ -372,6 +372,8 @@ opt_check4 (assign y= a?(b?(a&c):c):(!c))
  Link:
  
  ![image](https://user-images.githubusercontent.com/75453542/120046760-ba4df380-bfc7-11eb-827a-6b25cc081c81.png)
+ 
+ ![image](https://user-images.githubusercontent.com/75453542/120047201-e322b880-bfc8-11eb-9b94-789e3dd3ede2.png)
 
  Diagram:
  
