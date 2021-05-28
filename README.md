@@ -416,18 +416,29 @@ opt_check4 (assign y= a?(b?(a&c):c):(!c))
 
  
  Sequential Optimization Labs 
+ 
  dff_const1 module
 
  ![image](https://user-images.githubusercontent.com/75453542/120049720-b1f9b680-bfcf-11eb-9a9e-1f7979b8c8f2.png)
 
  Event of Q = 1 , flop will be inferred
  
+ Simulation Results
+ 
+ ![image](https://user-images.githubusercontent.com/75453542/120049840-25032d00-bfd0-11eb-8002-5af5c671df36.png)
+
+ Q waits for clock edge
+ 
+ ![image](https://user-images.githubusercontent.com/75453542/120049879-49f7a000-bfd0-11eb-8fa2-5cc29200d9a1.png)
+
  dff_const2 module
  
  ![image](https://user-images.githubusercontent.com/75453542/120049741-c50c8680-bfcf-11eb-8eca-2d19b73a4993.png)
  
  All cases Q = 1, constant
  
+ ![image](https://user-images.githubusercontent.com/75453542/120049943-7f03f280-bfd0-11eb-9fa0-7eafe8793239.png)
+
  
  
  
