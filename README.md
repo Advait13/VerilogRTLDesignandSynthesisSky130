@@ -186,10 +186,14 @@ As seen below at "alpha" Q follows D
 
 ![image](https://user-images.githubusercontent.com/75453542/120027544-59fb8980-bfa8-11eb-82af-b41962e50f06.png)
 
-Sync Reset D-FF
+Async Reset Sync Reset D-FF
 
-![image](https://user-images.githubusercontent.com/75453542/120027974-ead26500-bfa8-11eb-989b-4584ff815b5e.png)
+![image](https://user-images.githubusercontent.com/75453542/120028586-b7dca100-bfa9-11eb-9deb-4416dd651ac9.png)
 
 Waveform
+
+As seen below Async Reset will make Q is 0 and Q is 1 after pos clock edge because d is high and when asyn reset is low but sync reset is high Q is low after clock edge
+
+![image](https://user-images.githubusercontent.com/75453542/120028749-f4a89800-bfa9-11eb-80de-2de189382c6c.png)
 
 
