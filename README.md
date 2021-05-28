@@ -157,5 +157,6 @@ Various Flop Coding Styles and optimization
  Use Flip-Flop to store values
  
  Flops need to be initialized , otherwise downstream combo inputs might receive Garbage Value
+ Asynchronous reset means this doesnt need to wait for next clock edge to reset , instantaneous reset
 1. Asynchronous Active High Reset with Posedge clock -> always @(posedge clk or async_reset ) if(async_reset) q <= 1'b0 else q<=d
 2.  
