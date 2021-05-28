@@ -215,8 +215,7 @@ Synthesis of Async Reset D-FF
 ![image](https://user-images.githubusercontent.com/75453542/120029717-53224600-bfab-11eb-90ae-0b157f2e0bba.png)
  
  Synthesis of Sync Reset D-FF
- 
- ![image](https://user-images.githubusercontent.com/75453542/120036763-78b44d00-bfb5-11eb-8990-0dee09b37c46.png)
+
 
  >>synth-top dff_syncres
  
