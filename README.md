@@ -167,3 +167,12 @@ Various Flop Coding Styles and optimization
 Need to worry about Flops having both aynsc Set and Reset as it might cause race consitions
 
 Lab flop synthesis simulations 
+
+Asyn Reset d-FF
+
+![image](https://user-images.githubusercontent.com/75453542/120026247-a80f8d80-bfa6-11eb-9a3f-5a7f405357cc.png)
+
+Waveform
+![image](https://user-images.githubusercontent.com/75453542/120026326-c37a9880-bfa6-11eb-92f7-0c797975c6c9.png)
+
+
