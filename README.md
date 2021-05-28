@@ -388,6 +388,35 @@ opt_check4 (assign y= a?(b?(a&c):c):(!c))
  
  ![image](https://user-images.githubusercontent.com/75453542/120046208-8e7e3e00-bfc6-11eb-9f58-deb0f6cbacfb.png)
 
+ Cell Report:
+ 
+ ![image](https://user-images.githubusercontent.com/75453542/120047809-6395e900-bfca-11eb-945f-8a0a90b5d44c.png)
+
+ Flatten:
+ 
+ ![image](https://user-images.githubusercontent.com/75453542/120047863-81fbe480-bfca-11eb-912a-070d3fa59e27.png)
+ 
+ Optimize:
+ 
+ ![image](https://user-images.githubusercontent.com/75453542/120047882-8e803d00-bfca-11eb-8d00-b53e0aeb9529.png)
+
+ Link:
+ 
+ ![image](https://user-images.githubusercontent.com/75453542/120047925-ad7ecf00-bfca-11eb-8e2d-d942a9e8ab4f.png)
+
+ Diagram:
+ 
+ ![image](https://user-images.githubusercontent.com/75453542/120047940-bb345480-bfca-11eb-8d5a-6fa0b22c31cd.png)
+
+ Netlist:
+ 
+ ![image](https://user-images.githubusercontent.com/75453542/120047996-d69f5f80-bfca-11eb-99dd-ec3d3e99742c.png)
+
+ ![image](https://user-images.githubusercontent.com/75453542/120048027-eae35c80-bfca-11eb-87d3-8781b9b672d2.png)
+
+ 
+ 
+ 
  
  
  
