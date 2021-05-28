@@ -168,7 +168,7 @@ Need to worry about Flops having both aynsc Set and Reset as it might cause race
 
 Lab flop synthesis simulations 
 
-Asyn Reset d-FF
+Async Reset D-FF
 
 ![image](https://user-images.githubusercontent.com/75453542/120026247-a80f8d80-bfa6-11eb-9a3f-5a7f405357cc.png)
 
@@ -176,5 +176,10 @@ Waveform
 
 ![image](https://user-images.githubusercontent.com/75453542/120026449-f1f87380-bfa6-11eb-9ada-7c53cb1e4e3f.png)
 
+Async Set D-FF
+
+![image](https://user-images.githubusercontent.com/75453542/120026870-8fec3e00-bfa7-11eb-83ef-ccf7e444391b.png)
+
+Waveform
 
 
