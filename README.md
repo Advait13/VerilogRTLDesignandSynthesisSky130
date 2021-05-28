@@ -103,3 +103,11 @@ ANS: !A & B
 Q5 Area of Cell : MUX2_1
 
 ![image](https://user-images.githubusercontent.com/75453542/120015414-29135880-bf98-11eb-9b35-1ddbd564a530.png)
+
+Hierarchical vs Flat Synthesis
+
+![image](https://user-images.githubusercontent.com/75453542/120016571-9f648a80-bf99-11eb-804f-e873e40c0f12.png)
+
+![image](https://user-images.githubusercontent.com/75453542/120016721-c6bb5780-bf99-11eb-8e07-93e2ba79bb8a.png)
+
+
