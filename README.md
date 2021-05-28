@@ -309,6 +309,20 @@ Combinational Logic Optimisation
  
  ![image](https://user-images.githubusercontent.com/75453542/120043635-2c6f0a00-bfc1-11eb-841a-ffb57cb5c9ef.png)
 
+opt_check2 (mux with sel=a , one input=b and second input = 1'b1)
+ 
+ opt_check2 module Cell Report:
+ 
+ ![image](https://user-images.githubusercontent.com/75453542/120043815-87086600-bfc1-11eb-9656-1ed5f9a723df.png)
+ 
+ Optimizing...
+ 
+ ![image](https://user-images.githubusercontent.com/75453542/120043872-9daebd00-bfc1-11eb-87c0-683e00bf0f8e.png)
+ 
+ Diagram below shows (NAND representatioon of OR gate)
+
+ ![image](https://user-images.githubusercontent.com/75453542/120043912-ad2e0600-bfc1-11eb-9eab-0f7d29109f48.png)
+
 
 
  
