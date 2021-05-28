@@ -196,7 +196,23 @@ As seen below Async Reset will make Q is 0 and Q is 1 after pos clock edge becau
 
 ![image](https://user-images.githubusercontent.com/75453542/120028749-f4a89800-bfa9-11eb-80de-2de189382c6c.png)
 
-Synthesis
+Synthesis of Async Reset D-FF
+
+![image](https://user-images.githubusercontent.com/75453542/120029341-d3947700-bfaa-11eb-9a5e-9d20e2518287.png)
+
+>>synth -top dff_asyncreset
+
+![image](https://user-images.githubusercontent.com/75453542/120029415-e9a23780-bfaa-11eb-9198-3d87b36ccc66.png)
+ 
+ ![image](https://user-images.githubusercontent.com/75453542/120029501-0c345080-bfab-11eb-802a-d3a4e19662ae.png)
+ 
+ Executing Synthesis Step...
+ 
+ ![image](https://user-images.githubusercontent.com/75453542/120029619-31c15a00-bfab-11eb-8c22-0aaae8e5ff4e.png)
+
+ 
+
+
 
 
 
