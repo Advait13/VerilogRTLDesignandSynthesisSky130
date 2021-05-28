@@ -131,6 +131,9 @@ Why did OR get coverted in NAND Form in the Netlist?
 
  >> write_verilog multiple_modules_flat.v 
 
+![image](https://user-images.githubusercontent.com/75453542/120020486-a17d1800-bf9e-11eb-8639-976a37b5419c.png)
+
+
 Observations of YOSYS Tool
 1. >>yosys to Enter the Synthesis Tool
 2. >>read_liberty -lib <lib file> to read all the STD Cells
