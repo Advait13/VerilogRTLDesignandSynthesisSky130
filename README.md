@@ -323,6 +323,21 @@ opt_check2 (mux with sel=a , one input=b and second input = 1'b1)
 
  ![image](https://user-images.githubusercontent.com/75453542/120043912-ad2e0600-bfc1-11eb-9eab-0f7d29109f48.png)
 
+opt_check3 (assign y = a? (c?b:0):0 )
+ 
+ ![image](https://user-images.githubusercontent.com/75453542/120044851-8375de80-bfc3-11eb-9f83-8d98589b8470.png)
+
+ opt_check3 module Cell Report:
+ 
+ ![image](https://user-images.githubusercontent.com/75453542/120044884-98eb0880-bfc3-11eb-8939-458326be0488.png)
+
+ Optimizing...
+ 
+ ![image](https://user-images.githubusercontent.com/75453542/120045873-d6e92c00-bfc5-11eb-8973-9566b6b689cb.png)
+
+ Diagram:
+ 
+ ![image](https://user-images.githubusercontent.com/75453542/120045920-e8cacf00-bfc5-11eb-8d9f-d3d4c285d4b9.png)
 
 
  
