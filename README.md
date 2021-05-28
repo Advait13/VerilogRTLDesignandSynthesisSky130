@@ -249,8 +249,13 @@ Synthesis of Async Reset D-FF
  Diagram:
  
  ![image](https://user-images.githubusercontent.com/75453542/120038964-eada6100-bfb8-11eb-8e92-b0519c97a245.png)
-
  
+ Netlist:
+ 
+ ![image](https://user-images.githubusercontent.com/75453542/120039550-f8dcb180-bfb9-11eb-9d21-a8bbca69194b.png)
+
+
+ Synthesizing MULT9
 
  
 
