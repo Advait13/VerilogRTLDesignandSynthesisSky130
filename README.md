@@ -156,3 +156,4 @@ Various Flop Coding Styles and optimization
  Due to Propagation Delay of Combo Cells , Output will glitch until it stabilizes.
  Use Flip-Flop to store values
  
+ Flops need to be initialized , otherwise downstream combo inputs might receive Garbage Value
