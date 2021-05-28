@@ -293,5 +293,22 @@ Combinational Logic Optimisation
  4. Sequential Logic Cloning (Floorplan Aware Synthesis)
  If B and C flops are far away  from A , if there is a large positive slack , then A can be cloned
  
+ Labs
  
+ opt_check (mux with sel=a , one input=b and second input = 1'b0)
+ 
+ ![image](https://user-images.githubusercontent.com/75453542/120043216-6ab7f980-bfc0-11eb-9883-f6f96a040bfa.png)
+ 
+ opt_check module Cell Report:
+ 
+ ![image](https://user-images.githubusercontent.com/75453542/120043263-7dcac980-bfc0-11eb-8672-5e5635cd88fd.png)
+ 
+ Optimizing Command (Unused Cells Optimizations are Done) 
+
+ ![image](https://user-images.githubusercontent.com/75453542/120043331-9c30c500-bfc0-11eb-9eb6-b1ad9df50a1a.png)
+ 
+ ![image](https://user-images.githubusercontent.com/75453542/120043635-2c6f0a00-bfc1-11eb-841a-ffb57cb5c9ef.png)
+
+
+
  
