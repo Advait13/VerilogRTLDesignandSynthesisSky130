@@ -236,7 +236,24 @@ Synthesis of Async Reset D-FF
  
  Utilizing Shift to Execute Multiply by 2^x Operation
 
+ Synthesizing MULT2
  
+ ![image](https://user-images.githubusercontent.com/75453542/120038719-8e774180-bfb8-11eb-97a5-3ca77d570476.png)
+ 
+ Cell Profile:
+ 
+ ![image](https://user-images.githubusercontent.com/75453542/120038801-abac1000-bfb8-11eb-97eb-994f09b5fa53.png)
+ 
+ ![image](https://user-images.githubusercontent.com/75453542/120038893-d1391980-bfb8-11eb-9391-d8727fe2767b.png)
+ 
+ Diagram:
+ 
+ ![image](https://user-images.githubusercontent.com/75453542/120038964-eada6100-bfb8-11eb-8e92-b0519c97a245.png)
+
+ 
+
+ 
+
  
 
 
