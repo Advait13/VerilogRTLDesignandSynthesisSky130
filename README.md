@@ -257,11 +257,16 @@ Synthesis of Async Reset D-FF
 
  Synthesizing MULT9
 
+Cell Profile:
  
+ ![image](https://user-images.githubusercontent.com/75453542/120039714-3a6d5c80-bfba-11eb-8177-4083ce0c0f68.png)
 
+Linking not required to STD CELLS as seen below
  
+ ![image](https://user-images.githubusercontent.com/75453542/120039775-4fe28680-bfba-11eb-84f6-9dd9f224d108.png)
 
+Diagram:
 
-
+ ![image](https://user-images.githubusercontent.com/75453542/120039958-9df78a00-bfba-11eb-9c7c-204e426d18a3.png)
 
 
