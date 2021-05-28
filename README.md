@@ -436,6 +436,10 @@ opt_check4 (assign y= a?(b?(a&c):c):(!c))
  Cell Report:
  
  ![image](https://user-images.githubusercontent.com/75453542/120050243-94c5e780-bfd1-11eb-86f6-e60c2cddd1c9.png)
+ 
+ DFF-Libmap
+ 
+ ![image](https://user-images.githubusercontent.com/75453542/120050687-a491fb80-bfd2-11eb-9dee-b26bbb6793d2.png)
 
  Optimzation + Linking
  
@@ -443,8 +447,7 @@ opt_check4 (assign y= a?(b?(a&c):c):(!c))
 
  Diagram:
  
- ![image](https://user-images.githubusercontent.com/75453542/120050277-b4f5a680-bfd1-11eb-8a72-b8d9effd298c.png)
-
+ ![image](https://user-images.githubusercontent.com/75453542/120050638-7f9d8880-bfd2-11eb-892b-a171de04c524.png)
 
  dff_const2 module
  
