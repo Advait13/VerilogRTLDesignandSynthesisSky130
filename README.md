@@ -142,3 +142,7 @@ Observations of YOSYS Tool
 5. >>abc -liberty <lib_file> Maps to SKY130
 6. >>write_verilog Write Netlist
 7. >>flatten Flat Netlist
+
+ Synthesis Result of only sub_module1
+ 
+ ![image](https://user-images.githubusercontent.com/75453542/120021024-5fa0a180-bf9f-11eb-89fe-91a9b98a8293.png)
