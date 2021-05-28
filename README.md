@@ -234,7 +234,7 @@ Synthesis of Async Reset D-FF
 
  Interesting Optimizations
  
- Utilizing Appending/Shift to Execute Multiply by 2^x Operation
+ Utilizing Appending/Shift to Execute Multiply by 2^x Operation (Redistributing Wires (No H/W Built))
 
  Synthesizing MULT2
  
