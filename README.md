@@ -110,4 +110,12 @@ Hierarchical vs Flat Synthesis
 
 ![image](https://user-images.githubusercontent.com/75453542/120016721-c6bb5780-bf99-11eb-8e07-93e2ba79bb8a.png)
 
+![image](https://user-images.githubusercontent.com/75453542/120016924-113cd400-bf9a-11eb-8876-3b78c629b614.png)
+
+Diagram of multiple_modules module
+
+![image](https://user-images.githubusercontent.com/75453542/120017086-4a754400-bf9a-11eb-927a-7687097b88d4.png)
+
+
+
 
