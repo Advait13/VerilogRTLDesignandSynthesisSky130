@@ -469,5 +469,27 @@ opt_check4 (assign y= a?(b?(a&c):c):(!c))
  
  ![image](https://user-images.githubusercontent.com/75453542/120050357-fede8c80-bfd1-11eb-8f19-2a7b0a7a4aef.png)
 
+ dff_const3 module
  
+ Simulation:
+ 
+ ![image](https://user-images.githubusercontent.com/75453542/120051159-5ed63280-bfd4-11eb-98d2-40dce7b3ed1a.png)
+
+ ![image](https://user-images.githubusercontent.com/75453542/120051138-4bc36280-bfd4-11eb-8c08-894b5825e6fd.png)
+ 
+ Synthesis:
+ 
+ Cell Report:
+ 
+ ![image](https://user-images.githubusercontent.com/75453542/120051199-8d540d80-bfd4-11eb-9754-1fd17173cfc6.png)
+
+ DFF Map:
+ 
+ ![image](https://user-images.githubusercontent.com/75453542/120051214-9ba22980-bfd4-11eb-8e5f-4c989b2ed0bb.png)
+
+ Diagram:
+ 
+ ![image](https://user-images.githubusercontent.com/75453542/120051265-cbe9c800-bfd4-11eb-9549-43b7c328612f.png)
+
+
  
