@@ -131,4 +131,11 @@ Why did OR get coverted in NAND Form in the Netlist?
 
  >> write_verilog multiple_modules_flat.v 
 
-
+Observations of YOSYS Tool
+1. >>yosys to Enter the Synthesis Tool
+2. >>read_liberty -lib <lib file> to read all the STD Cells
+3. >>read_verilog <module>
+4. >>synth -top <module name> Does is do GTCH Map??
+5. >>abc -liberty <lib_file> Maps to SKY130
+6. >>write_verilog Write Netlist
+7. >>flatten Flat Netlist
