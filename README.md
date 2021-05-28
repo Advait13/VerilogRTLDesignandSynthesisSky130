@@ -213,6 +213,19 @@ Synthesis of Async Reset D-FF
  Diagram (Tool Inserted an INV because Tool used Active Low FF hence requiring Inverter as Reset is ACTIVE HIGH)
  
 ![image](https://user-images.githubusercontent.com/75453542/120029717-53224600-bfab-11eb-90ae-0b157f2e0bba.png)
+ 
+ Synthesis of Sync Reset D-FF
+ 
+ ![image](https://user-images.githubusercontent.com/75453542/120036763-78b44d00-bfb5-11eb-8990-0dee09b37c46.png)
+
+ >>synth-top dff_syncres
+ 
+ ![image](https://user-images.githubusercontent.com/75453542/120036835-91bcfe00-bfb5-11eb-9857-3261271f12a4.png)
+ 
+ 
+
+ 
+ 
 
 
 
