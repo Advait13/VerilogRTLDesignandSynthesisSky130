@@ -430,6 +430,21 @@ opt_check4 (assign y= a?(b?(a&c):c):(!c))
  Q waits for clock edge
  
  ![image](https://user-images.githubusercontent.com/75453542/120049879-49f7a000-bfd0-11eb-8fa2-5cc29200d9a1.png)
+ 
+ Synthesis Results
+
+ Cell Report:
+ 
+ ![image](https://user-images.githubusercontent.com/75453542/120050243-94c5e780-bfd1-11eb-86f6-e60c2cddd1c9.png)
+
+ Optimzation + Linking
+ 
+ ![image](https://user-images.githubusercontent.com/75453542/120050236-88da2580-bfd1-11eb-886f-1b7263ff3d2a.png)
+
+ Diagram:
+ 
+ ![image](https://user-images.githubusercontent.com/75453542/120050277-b4f5a680-bfd1-11eb-8a72-b8d9effd298c.png)
+
 
  dff_const2 module
  
@@ -439,6 +454,17 @@ opt_check4 (assign y= a?(b?(a&c):c):(!c))
  
  ![image](https://user-images.githubusercontent.com/75453542/120049943-7f03f280-bfd0-11eb-9fa0-7eafe8793239.png)
 
+ Cell Report:
  
+ ![image](https://user-images.githubusercontent.com/75453542/120050318-d3f43880-bfd1-11eb-9744-e7dafdf67fde.png)
+
+ Optimization + Linking:
+ 
+ ![image](https://user-images.githubusercontent.com/75453542/120050344-f38b6100-bfd1-11eb-9b07-32bc562c6084.png)
+
+ Diagram:
+ 
+ ![image](https://user-images.githubusercontent.com/75453542/120050357-fede8c80-bfd1-11eb-8f19-2a7b0a7a4aef.png)
+
  
  
