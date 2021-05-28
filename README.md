@@ -120,6 +120,15 @@ Now , writing the Hier Netlist (Hierarchies are Preserved)
 
 ![image](https://user-images.githubusercontent.com/75453542/120018303-d20f8280-bf9b-11eb-860a-eebc4bb9f178.png)
 
+Why did OR get coverted in NAND Form in the Netlist?
+ NAND vs NOR 
+ Stacked NMOS vs Stacked PMOS
+ Stacked PMOS : PMOS has poor mobility , need to widen the cell for good locic performance
+ 
+ How to write flat netlist?
+ 
+ ![image](https://user-images.githubusercontent.com/75453542/120019769-b1482c80-bf9d-11eb-8c29-cc5b022cd0d4.png)
 
+ >> write_verilog multiple_modules_flat.v 
 
 
