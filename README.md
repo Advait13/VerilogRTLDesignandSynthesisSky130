@@ -282,3 +282,16 @@ Combinational Logic Optimisation
  
  1. Constant Propagation
  2. Boolean Logic Optimisation (K-Map, Quine McKluskey Algorithms)
+ 
+ Sequential Logic Optimisation
+ 
+ 1. Sequential Costatnt Propagation
+ 2. State Optimisation
+ Optimization of unused States
+ 3. Retiming
+ Distributing combo logic in bw 2 Flops more effectively to reduce bottleneck path thereby increasing clock frequency
+ 4. Sequential Logic Cloning (Floorplan Aware Synthesis)
+ If B and C flops are far away  from A , if there is a large positive slack , then A can be cloned
+ 
+ 
+ 
