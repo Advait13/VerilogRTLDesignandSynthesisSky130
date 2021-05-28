@@ -158,5 +158,7 @@ Various Flop Coding Styles and optimization
  
  Flops need to be initialized , otherwise downstream combo inputs might receive Garbage Value
  Asynchronous reset means this doesnt need to wait for next clock edge to reset , instantaneous reset
+ Synchronous reset means , it needs to wait for edge of clock, waits for clock not instantaneous
 1. Asynchronous Active High Reset with Posedge clock -> always @(posedge clk or async_reset ) if(async_reset) q <= 1'b0 else q<=d
-2.  
+2. Asynchronous Active High Set with Posedge clock -> always @(posedge clk or async_set ) if(async_reset) q <= 1'b0 else q<=d
+3. Synchronous Active High Reset with Posedge clock -> always @(posedge clk  ) if(async_reset) q <= 1'b0 else q<=d
