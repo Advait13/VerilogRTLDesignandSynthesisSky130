@@ -150,4 +150,5 @@ Observations of YOSYS Tool
  Why do you want to synthesize sub_modules if we have flat synthesis available?
  Top Module having multiple instantaitions of same module. You can save time by synthesizing these modules only once
  
+ Assessment Day2 Skill 2
  
