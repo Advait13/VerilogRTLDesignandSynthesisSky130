@@ -222,6 +222,16 @@ Synthesis of Async Reset D-FF
  
  ![image](https://user-images.githubusercontent.com/75453542/120036835-91bcfe00-bfb5-11eb-9857-3261271f12a4.png)
  
+ ![image](https://user-images.githubusercontent.com/75453542/120036968-bca75200-bfb5-11eb-973a-7bda6852a6b5.png)
+
+ Executing Synthesis Step...
+ 
+ ![image](https://user-images.githubusercontent.com/75453542/120037016-d052b880-bfb5-11eb-8aed-7995ac09e8a1.png)
+
+ Diagram
+ 
+ ![image](https://user-images.githubusercontent.com/75453542/120037087-ebbdc380-bfb5-11eb-87f9-4312e0ff149a.png)
+
  
 
  
