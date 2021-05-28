@@ -278,3 +278,7 @@ Optimizations are important to conserve hardware and cost of chip manufacturing
  
  Introduction to optimisations
  
+Combinational Logic Optimisation
+ 
+ 1. Constant Propagation
+ 2. Boolean Logic Optimisation (K-Map, Quine McKluskey Algorithms)
