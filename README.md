@@ -59,7 +59,7 @@ Example of a lib
 
 Note: All STD Cell Definition will be present here:
 
-Example of a Cell
+Example of a Cell 
 
 ![image](https://user-images.githubusercontent.com/75453542/119773400-7054f880-be75-11eb-9a18-138b2be6420d.png)
 
@@ -227,7 +227,7 @@ Synthesis of Async Reset D-FF
  
  ![image](https://user-images.githubusercontent.com/75453542/120037016-d052b880-bfb5-11eb-8aed-7995ac09e8a1.png)
 
- Diagram
+ Diagram 
  
  ![image](https://user-images.githubusercontent.com/75453542/120037087-ebbdc380-bfb5-11eb-87f9-4312e0ff149a.png)
 
@@ -415,7 +415,18 @@ opt_check4 (assign y= a?(b?(a&c):c):(!c))
  ![image](https://user-images.githubusercontent.com/75453542/120048027-eae35c80-bfca-11eb-87d3-8781b9b672d2.png)
 
  
+ Sequential Optimization Labs 
+ dff_const1 module
+
+ ![image](https://user-images.githubusercontent.com/75453542/120049720-b1f9b680-bfcf-11eb-9a9e-1f7979b8c8f2.png)
+
+ Event of Q = 1 , flop will be inferred
  
+ dff_const2 module
+ 
+ ![image](https://user-images.githubusercontent.com/75453542/120049741-c50c8680-bfcf-11eb-8eca-2d19b73a4993.png)
+ 
+ All cases Q = 1, constant
  
  
  
