@@ -146,3 +146,8 @@ Observations of YOSYS Tool
  Synthesis Result of only sub_module1
  
  ![image](https://user-images.githubusercontent.com/75453542/120021024-5fa0a180-bf9f-11eb-89fe-91a9b98a8293.png)
+ 
+ Why do you want to synthesize sub_modules if we have flat synthesis available?
+ Top Module having multiple instantaitions of same module. You can save time by synthesizing these modules only once
+ 
+ 
