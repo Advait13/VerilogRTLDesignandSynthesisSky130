@@ -116,6 +116,9 @@ Diagram of multiple_modules module
 
 ![image](https://user-images.githubusercontent.com/75453542/120017086-4a754400-bf9a-11eb-927a-7687097b88d4.png)
 
+Now , writing the Netlist
+
+
 
 
 
