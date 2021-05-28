@@ -139,7 +139,7 @@ Observations of YOSYS Tool
 2. >>read_liberty -lib <lib file> to read all the STD Cells
 3. >>read_verilog <module>
 4. >>synth -top <module name> Does is do GTCH Map??
-5. >>abc -liberty <lib_file> Maps to SKY130
+5. >>abc -liberty <lib_file> Maps to SKY130, Converts RTL File and what gates it needs to link to  , Generates Netlist
 6. >>write_verilog Write Netlist
 7. >>flatten Flat Netlist
 
