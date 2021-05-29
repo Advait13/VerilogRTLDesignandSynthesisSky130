@@ -570,5 +570,8 @@ Cell Report:
  ![image](https://user-images.githubusercontent.com/75453542/120081442-93003080-c072-11eb-81eb-10f32c51a42f.png)
 
  
+Case: checking if count = 3'b101
+ 
+ ![image](https://user-images.githubusercontent.com/75453542/120081517-ea9e9c00-c072-11eb-892e-0e1e87bffccd.png)
 
  
