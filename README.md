@@ -541,4 +541,27 @@ Linking:
 
 Sequential Optimizations for unused outputs
  
+ counter_opt.v module
+ 
+ ![image](https://user-images.githubusercontent.com/75453542/120081097-91ce0400-c070-11eb-858b-0ade135fc16b.png)
+
+Cell Report:
+ 
+ ![image](https://user-images.githubusercontent.com/75453542/120081165-ea050600-c070-11eb-83e0-dfad5db035a7.png)
+
+ Diagram:
+ 
+![image](https://user-images.githubusercontent.com/75453542/120081200-36e8dc80-c071-11eb-9235-d0d743f6db8a.png)
+
+ Case : Using all 3 bits of count register
+ 
+  counter_opt.v module
+ 
+
+Cell Report:
+ 
+
+ Diagram:
+ 
+
  
