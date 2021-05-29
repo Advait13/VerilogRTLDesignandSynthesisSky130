@@ -572,6 +572,15 @@ Cell Report:
  
 Case: checking if count = 3'b101
  
+ ![image](https://user-images.githubusercontent.com/75453542/120081587-4701bb80-c073-11eb-8b40-289284220ea3.png)
+ 
  ![image](https://user-images.githubusercontent.com/75453542/120081517-ea9e9c00-c072-11eb-892e-0e1e87bffccd.png)
+ 
+ Case : count + 4
+ 
+ ![image](https://user-images.githubusercontent.com/75453542/120081615-6567b700-c073-11eb-8f9c-2cbf23da5f67.png)
+
+ ![image](https://user-images.githubusercontent.com/75453542/120081646-816b5880-c073-11eb-9d89-97e5fce6ba14.png)
+
 
  
