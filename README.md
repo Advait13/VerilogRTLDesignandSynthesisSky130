@@ -491,5 +491,51 @@ opt_check4 (assign y= a?(b?(a&c):c):(!c))
  
  ![image](https://user-images.githubusercontent.com/75453542/120051265-cbe9c800-bfd4-11eb-9549-43b7c328612f.png)
 
-
+dff_const4 module
  
+ ![image](https://user-images.githubusercontent.com/75453542/120078374-1f572700-c064-11eb-8ef5-804bea4d4b4c.png)
+ 
+ Simulation Results
+ 
+ ![image](https://user-images.githubusercontent.com/75453542/120078589-00a56000-c065-11eb-8e34-6a45025616a9.png)
+
+ ![image](https://user-images.githubusercontent.com/75453542/120078605-0ef37c00-c065-11eb-9500-b7e130535310.png)
+
+ Synthesis Results
+ 
+ Cell Report:
+ 
+ ![image](https://user-images.githubusercontent.com/75453542/120078698-9d67fd80-c065-11eb-8555-a8bafb40afef.png)
+
+Diagram:
+ 
+ ![image](https://user-images.githubusercontent.com/75453542/120078718-b670ae80-c065-11eb-9539-487ebec48505.png)
+
+ dff_const5 module
+ 
+ ![image](https://user-images.githubusercontent.com/75453542/120078383-30079d00-c064-11eb-81b5-651ff7ae4d9f.png)
+ 
+ Simulation Results
+ 
+ ![image](https://user-images.githubusercontent.com/75453542/120078665-685bab00-c065-11eb-9007-da86a80fa023.png)
+
+ ![image](https://user-images.githubusercontent.com/75453542/120078681-79a4b780-c065-11eb-8c96-93995f265891.png)
+
+ Synthesis Results
+ 
+ Cell Report:
+ 
+ ![image](https://user-images.githubusercontent.com/75453542/120078746-d99b5e00-c065-11eb-93dc-f9b7d031309c.png)
+ 
+ DFF Map:
+ 
+ ![image](https://user-images.githubusercontent.com/75453542/120078766-ed46c480-c065-11eb-8f6d-e339c2a07100.png)
+
+Linking:
+ 
+ ![image](https://user-images.githubusercontent.com/75453542/120078801-03548500-c066-11eb-891e-6f442920c58b.png)
+
+ Diagram:
+ 
+ ![image](https://user-images.githubusercontent.com/75453542/120078813-11a2a100-c066-11eb-9a0e-abb7e3650755.png)
+
