@@ -539,3 +539,6 @@ Linking:
  
  ![image](https://user-images.githubusercontent.com/75453542/120078813-11a2a100-c066-11eb-9a0e-abb7e3650755.png)
 
+Sequential Optimizations for unused outputs
+ 
+ 
