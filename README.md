@@ -557,11 +557,18 @@ Cell Report:
  
   counter_opt.v module
  
+ ![image](https://user-images.githubusercontent.com/75453542/120081400-546a7600-c072-11eb-9dc3-8b868a5e5255.png)
+
+ ![image](https://user-images.githubusercontent.com/75453542/120081417-6ba96380-c072-11eb-8b25-ddcdf0494fe3.png)
 
 Cell Report:
  
+ ![image](https://user-images.githubusercontent.com/75453542/120081428-79f77f80-c072-11eb-8034-165179e9bbff.png)
 
  Diagram:
+ 
+ ![image](https://user-images.githubusercontent.com/75453542/120081442-93003080-c072-11eb-81eb-10f32c51a42f.png)
+
  
 
  
